@@ -26,8 +26,7 @@ body {
   justify-content: space-between;
   margin: 5% 0;
 }
-.calculator-button,
-.calculator-button-calculate {
+.calculator-button {
   background: rgba(0, 0, 0, 0.75);
   border: 2px solid rgba(234, 10, 246, 0.23);
   border-radius: 50%;
